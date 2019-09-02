@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255374491485",
+    "firebase_url": "https://sign-in-goodem-1567133982824.firebaseio.com",
+    "project_id": "sign-in-goodem-1567133982824",
+    "storage_bucket": "sign-in-goodem-1567133982824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255374491485:android:4f2e1a8d5b3d0b27",
+        "android_client_info": {
+          "package_name": "com.eftekher.signupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255374491485-4kcqk9sivgcfklqsbaetdkk91pjmqu37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eftekher.signupapp",
+            "certificate_hash": "88f81acb35d83f0f915d40bceaaadd1ad0002df9"
+          }
+        },
+        {
+          "client_id": "255374491485-j92qtnev016gigg0dnak8gicfuksj7c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNlgjxIShO_ferUwH5Y_8yh1C8dUhJECA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255374491485-j92qtnev016gigg0dnak8gicfuksj7c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
